@@ -5,11 +5,17 @@ var outputTarget = document.getElementById("output-target");
 //////////////////////// EVENT LISTENERS //////////////////////////
 
 document.addEventListener("click", function(e) {
-	writeToOutputTarget(e.innerText)
+	console.log(e.target.innerText);
+	writeToOutputTarget(e.target.innerText);
 });
+
+h1.addEventListener("hover", function()) {
+
+};
 
 //////////////////////// FUNCTIONS //////////////////////////
 
-function writeToOutputTarget() {
-	outputTarget.innerHTML = 'You clicked on the ${text of the section} section'
-}
+function writeToOutputTarget(text) {
+	outputTarget.innerHTML = 'You clicked on the ' + text + ' section';
+};
+

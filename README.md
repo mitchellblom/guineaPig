@@ -5,8 +5,8 @@
 <!-- 1. Link in a JavaScript file named events.js. -->
 <!-- 1. Link in a CSS file named events.css. (I actually named it main.css to differentiate from js) -->
 1. Use element.classList to manipulate the CSS classes on elements.
-Note: Output target is the output-target element.
-1. When any section is clicked the output target text should be "You clicked on the {text of the section} section"
+<!-- Note: Output target is the output-target element. -->
+<!-- 1. When any section is clicked the output target text should be "You clicked on the {text of the section} section" -->
 1. When the mouse is over the h1 tag, the output element should contain the text "You moved your mouse over the header".
 1. When the mouse leaves the h1 tag, the output element should contain the text "You left me!!".
 1. When you type characters into the input field, the output element should mirror the text in the input field.
