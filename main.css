@@ -2,3 +2,11 @@ body {
 	background-color: darkblue;
 	color: FF9;
 }
+
+.turnBlue {
+	color: blue;
+}
+
+.hulkify {
+	font-size: 6em;
+}

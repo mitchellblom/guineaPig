@@ -3,6 +3,8 @@
 var outputTarget = document.getElementById("output-target");
 var pageTitle = document.getElementById("page-title");
 var inputText = document.getElementById("keypress-input");
+var toTurnBlue = document.getElementById("add-color");
+var toHulkify = document.getElementById("make-large");
 
 //////////////////////// EVENT LISTENERS //////////////////////////
 
@@ -20,6 +22,14 @@ pageTitle.addEventListener("mouseleave", function() {
 
 inputText.addEventListener("keyup", function(e) {
 	outputTarget.innerHTML = e.target.value;
+});
+
+toTurnBlue.addEventListener("click", function() {
+	toTurnBlue.classList.add("turnBlue");
+});
+
+toHulkify.addEventListener("click", function() {
+	toHulkify.classList.add("hulkify");
 });
 
 //////////////////////// OTHER FUNCTIONS //////////////////////////
