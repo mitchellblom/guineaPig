@@ -8,8 +8,8 @@
 <!-- Note: Output target is the output-target element. -->
 <!-- 1. When any section is clicked the output target text should be "You clicked on the {text of the section} section" -->
 <!-- 1. When the mouse is over the h1 tag, the output element should contain the text "You moved your mouse over the header". -->
-1. When the mouse leaves the h1 tag, the output element should contain the text "You left me!!".
-1. When you type characters into the input field, the output element should mirror the text in the input field.
+<!-- 1. When the mouse leaves the h1 tag, the output element should contain the text "You left me!!". -->
+<!-- 1. When you type characters into the input field, the output element should mirror the text in the input field. -->
 1. When you click the "Add color" button, the guinea-pig element's text color should change to blue.
 1. When you click the "Hulkify" button, the guinea-pig element's font size should become much larger.
 1. When you click the "Capture it" button, the guinea-pig element should have a border added to it.
