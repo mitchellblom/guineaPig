@@ -3,8 +3,11 @@
 var outputTarget = document.getElementById("output-target");
 var pageTitle = document.getElementById("page-title");
 var inputText = document.getElementById("keypress-input");
+var guineaPig = document.getElementById("guinea-pig");
 var toTurnBlue = document.getElementById("add-color");
 var toHulkify = document.getElementById("make-large");
+var addBorder = document.getElementById("add-border");
+var addRadius = document.getElementById("add-rounding");
 
 //////////////////////// EVENT LISTENERS //////////////////////////
 
@@ -25,11 +28,19 @@ inputText.addEventListener("keyup", function(e) {
 });
 
 toTurnBlue.addEventListener("click", function() {
-	toTurnBlue.classList.add("turnBlue");
+	guineaPig.classList.add("turnBlue");
 });
 
 toHulkify.addEventListener("click", function() {
-	toHulkify.classList.add("hulkify");
+	guineaPig.classList.add("hulkify");
+});
+
+addBorder.addEventListener("click", function() {
+	guineaPig.classList.add("addBorder");
+});
+
+addRadius.addEventListener("click", function() {
+	guineaPig.classList.add("addRadius");
 });
 
 //////////////////////// OTHER FUNCTIONS //////////////////////////

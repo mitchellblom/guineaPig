@@ -10,3 +10,11 @@ body {
 .hulkify {
 	font-size: 6em;
 }
+
+.addBorder {
+	border: 2px solid white;
+}
+
+.addRadius {
+	border-radius: 15%;
+}

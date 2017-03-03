@@ -11,9 +11,9 @@
 <!-- 1. When the mouse leaves the h1 tag, the output element should contain the text "You left me!!". -->
 <!-- 1. When you type characters into the input field, the output element should mirror the text in the input field. -->
 <!-- 1. When you click the "Add color" button, the guinea-pig element's text color should change to blue. -->
-1. When you click the "Hulkify" button, the guinea-pig element's font size should become much larger.
-1. When you click the "Capture it" button, the guinea-pig element should have a border added to it.
-1. When you click the "Rounded" button, the guinea-pig element's border should become rounded.
+<!-- 1. When you click the "Hulkify" button, the guinea-pig element's font size should become much larger. -->
+<!-- 1. When you click the "Capture it" button, the guinea-pig element should have a border added to it. -->
+<!-- 1. When you click the "Rounded" button, the guinea-pig element's border should become rounded. -->
 1. The first section's text should be bold.
 1. The last section's text should be bold and italicized.
 1. Make the buttons stop appearing next to each other as inline elements. Change them into block elements.
