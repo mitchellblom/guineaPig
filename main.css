@@ -3,6 +3,10 @@ body {
 	color: FF9;
 }
 
+button {
+	display: block;
+}
+
 .turnBlue {
 	color: blue;
 }
@@ -17,4 +21,13 @@ body {
 
 .addRadius {
 	border-radius: 15%;
+}
+
+article section:first-child {
+	font-weight: bold;
+}
+
+article section:last-child {
+	font-weight: bold;
+	font-style: italic;
 }
