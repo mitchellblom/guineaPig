@@ -3,7 +3,7 @@
 ![Splashpage](https://raw.githubusercontent.com/mitchellblom/guineaPig/guineaPig/guineaPig.png)
 
 ## Project Summary:
-The Guinea Pig demonstrates proficiency in **References**, **Event Listeners**, and **CSS Pseudo Selectors**. The focus is not on making it look pretty, but rather following specific directions to the letter.
+The Guinea Pig demonstrates proficiency using **Javascript References**, **Event Listeners**, and **CSS Pseudo Selectors**. The focus is not on making it look pretty, but rather following specific directions to the letter.
 
 <hr>
 
@@ -28,8 +28,8 @@ Note: Output target is the output-target element.
 <hr>
 
 ##Demonstrated
- - Manipulating **HTML** without editing it directly
- - Relationships between **References** and **Event Listeners**
+ - Manipulating **HTML** without editing it directly, using **classList** method
+ - Relationships between **Javascript References** and **Event Listeners**
  - Following specific, particular directions
  - **CSS Pseudo Selectors**
 
