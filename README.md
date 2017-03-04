@@ -1,6 +1,6 @@
 # NSS Guinea Pig Exercise
 
-![Splashpage](https://raw.githubusercontent.com/mitchellblom/guineaPig/guineaPig/guineaPig.png)
+![Splashpage](https://raw.githubusercontent.com/mitchellblom/guineaPig/guineaPig/guineapig1.png)
 
 ## Project Summary:
 The Guinea Pig demonstrates proficiency using **Javascript References**, **Event Listeners**, and **CSS Pseudo Selectors**. The focus is not on making it look pretty, but rather following specific directions to the letter.
